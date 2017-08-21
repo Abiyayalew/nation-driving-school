@@ -13,9 +13,9 @@
 
 ## Project Approaches:
  
- *	 	Fully responsive single page website.
- *	 	Coded to add responsiveness to page using bootstrap.
- *	Coded to add dynamic menu using JavaScript’s. 
+ * Fully responsive single page website.
+ * Coded to add responsiveness to page using bootstrap.
+ * Coded to add dynamic menu using JavaScript’s. 
  
 
 
